@@ -2,13 +2,14 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: #66c2e1;
 }
 form {
     text-align: center;
     border: 2px solid;
     margin: 100px auto;
     width: 500px;
-    border-radius: 1%;
+    border-radius: 10px;
 }
 label, input {
     margin-bottom: 10px;
